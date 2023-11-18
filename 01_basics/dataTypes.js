@@ -10,3 +10,4 @@ symbol
 */
 
 console.log(typeof(null));
+console.log();
